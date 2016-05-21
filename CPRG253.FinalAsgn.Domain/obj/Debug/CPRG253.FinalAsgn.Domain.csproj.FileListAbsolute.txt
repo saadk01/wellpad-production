@@ -1,0 +1,5 @@
+C:\Users\Saad\Documents\CPRG-253\FinalAsgn\CPRG253.FinalAsgn.WellProduction\CPRG253.FinalAsgn.Domain\bin\Debug\CPRG253.FinalAsgn.Domain.dll
+C:\Users\Saad\Documents\CPRG-253\FinalAsgn\CPRG253.FinalAsgn.WellProduction\CPRG253.FinalAsgn.Domain\bin\Debug\CPRG253.FinalAsgn.Domain.pdb
+C:\Users\Saad\Documents\CPRG-253\FinalAsgn\CPRG253.FinalAsgn.WellProduction\CPRG253.FinalAsgn.Domain\obj\Debug\CPRG253.FinalAsgn.Domain.csprojResolveAssemblyReference.cache
+C:\Users\Saad\Documents\CPRG-253\FinalAsgn\CPRG253.FinalAsgn.WellProduction\CPRG253.FinalAsgn.Domain\obj\Debug\CPRG253.FinalAsgn.Domain.dll
+C:\Users\Saad\Documents\CPRG-253\FinalAsgn\CPRG253.FinalAsgn.WellProduction\CPRG253.FinalAsgn.Domain\obj\Debug\CPRG253.FinalAsgn.Domain.pdb

@@ -1,0 +1,17 @@
+c:\users\saad\documents\CPRG-253\FinalAsgn\CPRG253.FinalAsgn.WellProduction\CPRG253.FinalAsgn.WellProduction\bin\Debug\CPRG253.FinalAsgn.WellProduction.exe.config
+C:\Users\Saad\Documents\CPRG-253\FinalAsgn\CPRG253.FinalAsgn.WellProduction\CPRG253.FinalAsgn.WellProduction\bin\Debug\CPRG253.FinalAsgn.WellProduction.exe
+C:\Users\Saad\Documents\CPRG-253\FinalAsgn\CPRG253.FinalAsgn.WellProduction\CPRG253.FinalAsgn.WellProduction\bin\Debug\CPRG253.FinalAsgn.WellProduction.pdb
+C:\Users\Saad\Documents\CPRG-253\FinalAsgn\CPRG253.FinalAsgn.WellProduction\CPRG253.FinalAsgn.WellProduction\obj\Debug\CPRG253.FinalAsgn.WellProduction.csprojResolveAssemblyReference.cache
+C:\Users\Saad\Documents\CPRG-253\FinalAsgn\CPRG253.FinalAsgn.WellProduction\CPRG253.FinalAsgn.WellProduction\obj\Debug\CPRG253.FinalAsgn.WellProduction.Form1.resources
+C:\Users\Saad\Documents\CPRG-253\FinalAsgn\CPRG253.FinalAsgn.WellProduction\CPRG253.FinalAsgn.WellProduction\obj\Debug\CPRG253.FinalAsgn.WellProduction.Properties.Resources.resources
+C:\Users\Saad\Documents\CPRG-253\FinalAsgn\CPRG253.FinalAsgn.WellProduction\CPRG253.FinalAsgn.WellProduction\obj\Debug\CPRG253.FinalAsgn.WellProduction.csproj.GenerateResource.Cache
+C:\Users\Saad\Documents\CPRG-253\FinalAsgn\CPRG253.FinalAsgn.WellProduction\CPRG253.FinalAsgn.WellProduction\obj\Debug\CPRG253.FinalAsgn.WellProduction.exe
+C:\Users\Saad\Documents\CPRG-253\FinalAsgn\CPRG253.FinalAsgn.WellProduction\CPRG253.FinalAsgn.WellProduction\obj\Debug\CPRG253.FinalAsgn.WellProduction.pdb
+C:\Users\Saad\Documents\CPRG-253\FinalAsgn\CPRG253.FinalAsgn.WellProduction\CPRG253.FinalAsgn.WellProduction\bin\Debug\CPRG253.FinalAsgn.Domain.dll
+C:\Users\Saad\Documents\CPRG-253\FinalAsgn\CPRG253.FinalAsgn.WellProduction\CPRG253.FinalAsgn.WellProduction\bin\Debug\CPRG253.FinalAsgn.Domain.pdb
+C:\Users\Saad\Documents\CPRG-253\FinalAsgn\CPRG253.FinalAsgn.WellProduction\CPRG253.FinalAsgn.WellProduction\obj\Debug\CPRG253.FinalAsgn.WellProduction.Explorer.resources
+C:\Users\Saad\Documents\CPRG-253\FinalAsgn\CPRG253.FinalAsgn.WellProduction\CPRG253.FinalAsgn.WellProduction\obj\Debug\CPRG253.FinalAsgn.WellProduction.AddWellPadForm.resources
+C:\Users\Saad\Documents\CPRG-253\FinalAsgn\CPRG253.FinalAsgn.WellProduction\CPRG253.FinalAsgn.WellProduction\obj\Debug\CPRG253.FinalAsgn.WellProduction.AddProdWellForm.resources
+C:\Users\Saad\Documents\CPRG-253\FinalAsgn\CPRG253.FinalAsgn.WellProduction\CPRG253.FinalAsgn.WellProduction\obj\Debug\CPRG253.FinalAsgn.WellProduction.OilProductionForm.resources
+C:\Users\Saad\Documents\CPRG-253\FinalAsgn\CPRG253.FinalAsgn.WellProduction\CPRG253.FinalAsgn.WellProduction\obj\Debug\CPRG253.FinalAsgn.WellProduction.AddInjWellForm.resources
+C:\Users\Saad\Documents\CPRG-253\FinalAsgn\CPRG253.FinalAsgn.WellProduction\CPRG253.FinalAsgn.WellProduction\obj\Debug\CPRG253.FinalAsgn.WellProduction.ViewOilProductionForm.resources
